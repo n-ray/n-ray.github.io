@@ -1,0 +1,62 @@
+
+xingxing.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1
+  rotate: false
+  xy: 764, 134
+  size: 118, 96
+  orig: 118, 96
+  offset: 0, 0
+  index: -1
+images/guang1
+  rotate: false
+  xy: 624, 92
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+images/guang2
+  rotate: false
+  xy: 2, 2
+  size: 228, 228
+  orig: 228, 228
+  offset: 0, 0
+  index: -1
+images/s
+  rotate: false
+  xy: 884, 151
+  size: 80, 79
+  orig: 80, 79
+  offset: 0, 0
+  index: -1
+images/s2
+  rotate: false
+  xy: 624, 11
+  size: 80, 79
+  orig: 80, 79
+  offset: 0, 0
+  index: -1
+images/star1
+  rotate: false
+  xy: 232, 35
+  size: 194, 195
+  orig: 194, 195
+  offset: 0, 0
+  index: -1
+images/star2
+  rotate: false
+  xy: 428, 35
+  size: 194, 195
+  orig: 194, 195
+  offset: 0, 0
+  index: -1
+images/xingxing4
+  rotate: true
+  xy: 706, 18
+  size: 72, 71
+  orig: 72, 71
+  offset: 0, 0
+  index: -1
